@@ -21,7 +21,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-visualstudiocode-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![JavaScript](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
 
 ## &nbsp;GitHub Analytics
 
