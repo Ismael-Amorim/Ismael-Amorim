@@ -37,6 +37,3 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
       <img align="center" src="https://img.shields.io/badge/Ismael%20Amorim-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
 </a>
 </p>
-
-<hr>
-      
