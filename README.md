@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 
 <p align="left">
 <!--<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ismael-Amorim&show_icons=true&theme=vision-friendly-dark" alt="Ismael Amorim stats"/>-->
-<img width="475em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Amorim&show_icons=true&theme=vision-friendly-dark" alt="Ismael Amorim most"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Amorim&show_icons=true&theme=vision-friendly-dark" alt="Ismael Amorim most"/>
 
 ## &nbsp; Redes Sociais
 <p align="left" style="background:red">
