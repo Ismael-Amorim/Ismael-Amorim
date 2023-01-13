@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 ## &nbsp;GitHub Analytics
 
 <p align="left">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismael-Amorim)](https://github.com/Ismael-Amorim/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Ismael-Amorim)](https://github.com/Ismael-Amorim/github-readme-stats)
 
 ## &nbsp; Redes Sociais
 <p align="left" style="background:red">
