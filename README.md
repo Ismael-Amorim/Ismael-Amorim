@@ -25,8 +25,12 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 
 ## &nbsp;GitHub Analytics
 
-<p align="left">
-(https://github-readme-stats.vercel.app/api?username=Ismael-Amorim)](https://github.com/Ismael-Amorim/github-readme-stats)
+ <div>
+  <!--<a href="https://github.com/Ismael-Amorim">
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=Ismael-Amorim&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>-->
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Amorim&layout=compact&langs_count=7&theme=dracula"/>
+   
+</div>
 
 ## &nbsp; Redes Sociais
 <p align="left" style="background:red">
