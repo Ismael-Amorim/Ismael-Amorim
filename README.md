@@ -13,7 +13,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 
 - Tenho experiência com HTML, CSS, JAVASCRIPT, PHP, MYSQL, BOOTSTRAP.
 
-- Atualmente estudando desenvoolvimento web com Django e Python e após, irei estudar automatizações com Python.
+- Atualmente estudando desenvolvimento web com Django e Python e após, irei estudar automatizações com Python.
 
 - Buscando conhecimento cada dia mais
 
