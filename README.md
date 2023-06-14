@@ -1,11 +1,11 @@
-<img align="right" height="550em"
-src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b973a8cf56c/raw/a22765dcf19bc6e23641f684b1dbd9b7b418942b/githubcard.svg"/>
+<!--<img align="right" height="550em"
+src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b973a8cf56c/raw/a22765dcf19bc6e23641f684b1dbd9b7b418942b/githubcard.svg"/>-->
 
 <h1 align ="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ismael </h1>
 
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismael-Amorim&color=yellow" alt="Profile views" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismael-Amorim&color=yellow" alt="Profile views" /> </p>
 
 - Estudando Desenvolvimento Web
 
@@ -36,8 +36,8 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 ## &nbsp;GitHub Analytics
 
  <div>
-  <!--<a href="https://github.com/Ismael-Amorim">
-  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=Ismael-Amorim&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>-->
+  <a href="https://github.com/Ismael-Amorim">
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=Ismael-Amorim&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Amorim&layout=compact&langs_count=7&theme=dracula"/>
    
 </div>
