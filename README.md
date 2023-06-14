@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismael-Amorim&color=yellow" alt="Profile views" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismael-Amorim&color=yellow" alt="Profile views" /> </p>-->
 
 - Estudando Desenvolvimento Web
 
