@@ -1,4 +1,4 @@
-<h1 align ="left"> Hello there! I am Ismael, wellcome to my profile. </h1>
+<h1 align ="left"> Hello there! I am Ismael, welcome to my profile. </h1>
 
 
 
