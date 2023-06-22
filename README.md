@@ -7,15 +7,15 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismael-Amorim&color=yellow" alt="Profile views" /> </p>
 
-- Estudando Desenvolvimento Web
+- I am studyng web development and autamotion with python.
 
-- Aprofundando meus conhecimentos em desenvolvimento web diariamente.
+- Improving my knowledges of development.
 
-- Tenho experiência com HTML, CSS, JAVASCRIPT, PHP, MYSQL, BOOTSTRAP.
 
-- Atualmente estudando desenvolvimento web com Django e Python e após, irei estudar automatizações com Python.
+- I have big experience with HTML, CSS, JAVASCRIPT, PHP, MYSQL, BOOTSTRAP.
+ 
 
-- Buscando conhecimento cada dia mais
+- Looking for knowledge everyday.
 
 <br><br>
 
