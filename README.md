@@ -41,9 +41,9 @@
 
 ## &nbsp; Social media platforms:
 <p align="left" style="background:red">
-<a href="https://www.instagram.com/_cunhaismael/" target="_blank">
+<a href="https://www.instagram.com/_cunhaismael/ target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Ismael%20Amorim-05122A?style=flat&logo=instagram" alt="Instagram"/>
-<a href="https://www.linkedin.com/in/ismael-cunha/ target="_blank">
+<a href="https://www.linkedin.com/in/ismael-cunha/ target="_blank"
       <img align="center" src="https://img.shields.io/badge/Ismael%20Amorim-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
 </a>
 </p>
