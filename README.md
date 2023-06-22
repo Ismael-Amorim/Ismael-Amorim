@@ -19,7 +19,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 
 <br><br>
 
-## &nbsp; Tech Stacks
+## &nbsp; Tech Stacks:
 
 
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -33,7 +33,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
 ![VisualStudio](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
 
 
-## &nbsp;GitHub Analytics
+## &nbsp;GitHub Analytics:
 
  <div>
   <a href="https://github.com/Ismael-Amorim">
@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/gist/Ismael-Amorim/7cca9e6d2fb2efb743a11b
    
 </div>
 
-## &nbsp; Redes Sociais
+## &nbsp; Social media platforms:
 <p align="left" style="background:red">
 <a href="https://www.instagram.com/_cunhaismael/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Ismael%20Amorim-05122A?style=flat&logo=instagram" alt="Instagram"/>
