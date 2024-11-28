@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismael-Amorim&color=yellow" alt="Profile views" /> </p>
 
-- I am studyng web development and Data Science with python.
+- I am studyng web development.
 
 - Improving my knowledges of development.
 
