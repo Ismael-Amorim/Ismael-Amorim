@@ -4,13 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ismael-Amorim&color=yellow" alt="Profile views" /> </p>
 
-- I am studyng web development.
-
-- Improving my knowledges of development.
-
-
-- I have big experience with HTML, CSS, JAVASCRIPT, PHP, MYSQL, BOOTSTRAP.
- 
+- I’m a Full Stack Developer with hands-on experience building custom systems as a freelancer. I've delivered tailored solutions across various industries, including gym management, inventory control, and scheduling platforms. My core skills include PHP, MySQL, and JavaScript, and I’m currently expanding my expertise in TypeScript, Angular, and C#. I also have an intermediate (B1) level of English proficiency and am continuously working to improve it.
 
 - Looking for knowledge everyday.
 
@@ -21,12 +15,13 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
 
 
